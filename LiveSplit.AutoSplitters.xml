@@ -78,7 +78,7 @@
             <Game>COTLD</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/MelloYourFello/COTL-DEMO/main/COTL%20DEMO.asl</URL>
+            <URL>https://raw.githubusercontent.com/MelloYourFello/Autosplitters/main/COTL_DEMO.asl</URL>
             <URL>https://github.com/just-ero/asl-help/raw/main/Components/LiveSplit.ASLHelper.bin</URL>
         </URLs>
         <Type>Script</Type>
